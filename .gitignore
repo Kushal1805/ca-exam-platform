@@ -17,11 +17,11 @@ logs/
 *.log
 
 # Extracted data (intermediate JSON from Gemini extraction scripts)
-extracted_data/
+data/raw_extracted/
 
-# Temporary script output files
-scripts/out.txt
-scripts/extraction_output.txt
+# Temporary and development scripts
+scripts/archive/
+scripts/dev/
 
 # OS generated files
 .DS_Store
