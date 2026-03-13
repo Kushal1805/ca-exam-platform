@@ -1,4 +1,5 @@
 # CA Practice PRO
+[🚀 View Live Demo](https://kushal1805.github.io/ca-exam-platform/)
 
 A modern, AI-powered exam simulation platform designed for **CA Foundation** students preparing for ICAI exams. Practice with real ICAI question papers in a timed, exam-like environment and get your descriptive answers evaluated instantly by Google Gemini AI.
 
