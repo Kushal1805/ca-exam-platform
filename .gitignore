@@ -1,0 +1,32 @@
+# Dependencies
+node_modules/
+
+# Environment variables (contains API keys!)
+.env
+.env.local
+.env.*.local
+
+# Build output
+dist/
+
+# Python virtual environment
+.venv/
+
+# Logs
+logs/
+*.log
+
+# Extracted data (intermediate JSON from Gemini extraction scripts)
+extracted_data/
+
+# Temporary script output files
+scripts/out.txt
+scripts/extraction_output.txt
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE / Editor directories
+.vscode/
+.idea/
